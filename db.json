@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Amit Vishvakarma",
+      "username": "amit@233307",
+      "email": "amitbabhanchak@gmail.com",
+      "number": "7238861147",
+      "gender": "",
+      "skill": "web devplement",
+      "id": 1
+    },
+    {
+      "name": "ADRASH VISHVAKARMA",
+      "username": "adarsh320",
+      "email": "adarshvishwakarma7565@gmail.com",
+      "number": "3456785678",
+      "gender": "",
+      "skill": "python",
+      "id": 2
+    },
+    {
+      "name": "upendra",
+      "username": "up1232",
+      "email": "upendrakumarstudent21@gmail.com",
+      "number": "12345678",
+      "gender": "",
+      "skill": "wordpress",
+      "id": 3
+    },
+    {
+      "name": "Suresh  bhai",
+      "username": "sure234",
+      "email": "surebhai@gmail.com",
+      "number": "980653525",
+      "gender": "Common",
+      "skill": "electric man",
+      "id": 4
+    }
+  ]
+}
