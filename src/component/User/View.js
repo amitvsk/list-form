@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Link, usePrarams} from "react-router-dom";
+import { Link, useParams} from "react-router-dom";
 import axios from "axios";
 
 const View = () => {
@@ -11,7 +11,7 @@ const View = () => {
         gender: "",
         skill: ""
     });
-    const { id } = usePrarams();
+    const { id } = useParams();
     useEffect(() => {
         loadUsers();
     }, []);
